@@ -1,5 +1,5 @@
 # Diki-Kong-Banana-Hero-Dk
-Diki Kong Banana Hero Dk
+Diki Kong Banana Hero Dk - (Android + Wp + Html5)
 
 Diki Kong Banana Hero Dk
 “Diki Kong Banana Hero Dk” is exciting game developed in HTML5,  Android and integrated in Wordpress. The game has been developed for first time in HTML5/js and third-party library Phaser (not Construct2 or other framework).
