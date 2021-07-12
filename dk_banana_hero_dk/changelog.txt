@@ -1,0 +1,7 @@
+Diki Kong Banana Hero Dk
+
+
+== Changelog ==
+
+= Version 1.0 - 18/02/2020 =
+* First release.

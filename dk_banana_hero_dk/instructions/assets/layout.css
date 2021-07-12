@@ -1,0 +1,105 @@
+@charset "utf-8";
+/* CSS Document */
+
+#container{
+	margin:auto;
+	text-align: center;
+	font-family: Arial, "Times New Roman", Times, serif;
+	width: 900px;
+	color: #666;
+}
+#container a{
+	color: #4c2d18;
+	text-decoration:none;
+	font-weight:bold;
+}	
+
+#borderTop{
+	border-top: 1px solid #eee;
+}
+#topInfo{
+	padding-top: 30px;
+	padding-left: 40px;
+	padding-bottom: 30px;
+	display: block;
+	width: 350px;
+	text-align:left;
+	float: left;
+	line-height: 20px;
+	font-size: 13px;
+	border-right: 1px solid #eee;
+}
+#topTxt{
+	padding-top: 30px;
+	padding-left: 40px;
+	width: 400px;
+	display:block;
+	float: left;
+	text-align:left;
+	font-size: 13px;
+	line-height: 20px;
+}
+#content{
+	margin: auto;
+	text-align: left;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+#contentTable{
+	font-size:18px;
+	font-weight: 100;
+	padding-bottom: 20px;
+	color:#333;
+	font-style:italic;
+}
+
+#contentTitle{
+	font-size:18px;
+	font-weight:bold;
+	padding-bottom: 20px;
+	color:#333;
+}
+
+#contentTxt{
+	margin: auto;
+	text-align: left;
+	line-height: 20px;
+	font-size: 13px;
+}
+
+#contentTableTxt{
+	margin: auto;
+	padding-left: 40px;
+	text-align: left;
+	line-height: 20px;
+	font-size: 13px;
+}
+
+
+.txt1{
+	font-weight: 100;
+	font-size: 12px;
+	color:#999;
+}
+
+.title{
+	padding: 20px;
+	color: #333;
+}
+
+.top{
+	font-weight: 100;
+	font-size: 12px;
+}
+
+
+hr{
+	background: #ddd;
+	color: #ddd;
+	clear: both;
+	float: none;
+	width: 100%;
+	height: 1px;
+	border: none;
+}
